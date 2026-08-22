@@ -1,0 +1,7 @@
+# 影像（5 GB）與權重不進 git，另外傳。用 SHA256SUMS 驗證。
+dataset/
+*.pt
+*.png
+*.jpg
+__pycache__/
+runs/

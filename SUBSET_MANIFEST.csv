@@ -1,0 +1,3240 @@
+﻿split,folder,image,folder_frames_in_source
+train,007-TZ,frame_000760.png,233
+train,007-TZ,frame_000765.png,233
+train,007-TZ,frame_000770.png,233
+train,007-TZ,frame_000775.png,233
+train,007-TZ,frame_000780.png,233
+train,007-TZ,frame_000785.png,233
+train,007-TZ,frame_000790.png,233
+train,007-TZ,frame_000795.png,233
+train,007-TZ,frame_000799.png,233
+train,007-TZ,frame_000804.png,233
+train,007-TZ,frame_000809.png,233
+train,007-TZ,frame_000814.png,233
+train,007-TZ,frame_000819.png,233
+train,007-TZ,frame_000824.png,233
+train,007-TZ,frame_000829.png,233
+train,007-TZ,frame_000834.png,233
+train,007-TZ,frame_000839.png,233
+train,007-TZ,frame_000844.png,233
+train,007-TZ,frame_000849.png,233
+train,007-TZ,frame_000854.png,233
+train,007-TZ,frame_000859.png,233
+train,007-TZ,frame_000864.png,233
+train,007-TZ,frame_000869.png,233
+train,007-TZ,frame_000874.png,233
+train,007-TZ,frame_000878.png,233
+train,007-TZ,frame_000883.png,233
+train,007-TZ,frame_000888.png,233
+train,007-TZ,frame_000893.png,233
+train,007-TZ,frame_000898.png,233
+train,007-TZ,frame_000903.png,233
+train,007-TZ,frame_000908.png,233
+train,007-TZ,frame_000913.png,233
+train,007-TZ,frame_000918.png,233
+train,007-TZ,frame_000923.png,233
+train,007-TZ,frame_000928.png,233
+train,007-TZ,frame_000933.png,233
+train,007-TZ,frame_000938.png,233
+train,007-TZ,frame_000943.png,233
+train,007-TZ,frame_000948.png,233
+train,007-TZ,frame_000953.png,233
+train,007-TZ,frame_000957.png,233
+train,007-TZ,frame_000962.png,233
+train,007-TZ,frame_000967.png,233
+train,007-TZ,frame_000972.png,233
+train,007-TZ,frame_000977.png,233
+train,007-TZ,frame_000982.png,233
+train,007-TZ,frame_000987.png,233
+train,007-TZ,frame_000992.png,233
+train,0923TT9167,frame_000858.png,106
+train,0923TT9167,frame_000863.png,106
+train,0923TT9167,frame_000868.png,106
+train,0923TT9167,frame_000873.png,106
+train,0923TT9167,frame_000878.png,106
+train,0923TT9167,frame_000883.png,106
+train,0923TT9167,frame_000888.png,106
+train,0923TT9167,frame_000893.png,106
+train,0923TT9167,frame_000898.png,106
+train,0923TT9167,frame_000903.png,106
+train,0923TT9167,frame_000908.png,106
+train,0923TT9167,frame_000913.png,106
+train,0923TT9167,frame_000918.png,106
+train,0923TT9167,frame_000923.png,106
+train,0923TT9167,frame_000928.png,106
+train,0923TT9167,frame_000933.png,106
+train,0923TT9167,frame_000938.png,106
+train,0923TT9167,frame_000943.png,106
+train,0923TT9167,frame_000948.png,106
+train,0923TT9167,frame_000953.png,106
+train,0923TT9167,frame_000958.png,106
+train,0923TT9167,frame_000963.png,106
+train,A325-01-25_20250211141317,frame_000174.png,12
+train,A325-01-25_20250211141317,frame_000180.png,12
+train,A325-01-25_20250211141317,frame_000185.png,12
+train,ABF-7003(菸蒂),frame_000488.png,14
+train,ABF-7003(菸蒂),frame_000494.png,14
+train,ABF-7003(菸蒂),frame_000501.png,14
+train,AUF6931,frame_000795.png,46
+train,AUF6931,frame_000801.png,46
+train,AUF6931,frame_000806.png,46
+train,AUF6931,frame_000812.png,46
+train,AUF6931,frame_000817.png,46
+train,AUF6931,frame_000823.png,46
+train,AUF6931,frame_000829.png,46
+train,AUF6931,frame_000834.png,46
+train,AUF6931,frame_000840.png,46
+train,BWH-0190亂丟垃圾1,frame_000324.png,72
+train,BWH-0190亂丟垃圾1,frame_000329.png,72
+train,BWH-0190亂丟垃圾1,frame_000334.png,72
+train,BWH-0190亂丟垃圾1,frame_000339.png,72
+train,BWH-0190亂丟垃圾1,frame_000344.png,72
+train,BWH-0190亂丟垃圾1,frame_000349.png,72
+train,BWH-0190亂丟垃圾1,frame_000354.png,72
+train,BWH-0190亂丟垃圾1,frame_000360.png,72
+train,BWH-0190亂丟垃圾1,frame_000365.png,72
+train,BWH-0190亂丟垃圾1,frame_000370.png,72
+train,BWH-0190亂丟垃圾1,frame_000375.png,72
+train,BWH-0190亂丟垃圾1,frame_000380.png,72
+train,BWH-0190亂丟垃圾1,frame_000385.png,72
+train,BWH-0190亂丟垃圾1,frame_000390.png,72
+train,BWH-0190亂丟垃圾1,frame_000395.png,72
+train,BXL-9695,frame_000270.png,196
+train,BXL-9695,frame_000275.png,196
+train,BXL-9695,frame_000280.png,196
+train,BXL-9695,frame_000285.png,196
+train,BXL-9695,frame_000290.png,196
+train,BXL-9695,frame_000295.png,196
+train,BXL-9695,frame_000300.png,196
+train,BXL-9695,frame_000305.png,196
+train,BXL-9695,frame_000310.png,196
+train,BXL-9695,frame_000315.png,196
+train,BXL-9695,frame_000320.png,196
+train,BXL-9695,frame_000325.png,196
+train,BXL-9695,frame_000330.png,196
+train,BXL-9695,frame_000335.png,196
+train,BXL-9695,frame_000340.png,196
+train,BXL-9695,frame_000345.png,196
+train,BXL-9695,frame_000350.png,196
+train,BXL-9695,frame_000355.png,196
+train,BXL-9695,frame_000360.png,196
+train,BXL-9695,frame_000365.png,196
+train,BXL-9695,frame_000370.png,196
+train,BXL-9695,frame_000375.png,196
+train,BXL-9695,frame_000380.png,196
+train,BXL-9695,frame_000385.png,196
+train,BXL-9695,frame_000390.png,196
+train,BXL-9695,frame_000395.png,196
+train,BXL-9695,frame_000400.png,196
+train,BXL-9695,frame_000405.png,196
+train,BXL-9695,frame_000410.png,196
+train,BXL-9695,frame_000415.png,196
+train,BXL-9695,frame_000420.png,196
+train,BXL-9695,frame_000425.png,196
+train,BXL-9695,frame_000430.png,196
+train,BXL-9695,frame_000435.png,196
+train,BXL-9695,frame_000440.png,196
+train,BXL-9695,frame_000445.png,196
+train,BXL-9695,frame_000450.png,196
+train,BXL-9695,frame_000455.png,196
+train,BXL-9695,frame_000460.png,196
+train,BXL-9695,frame_000465.png,196
+train,KLK-7319,frame_000129.png,82
+train,KLK-7319,frame_000134.png,82
+train,KLK-7319,frame_000139.png,82
+train,KLK-7319,frame_000144.png,82
+train,KLK-7319,frame_000149.png,82
+train,KLK-7319,frame_000154.png,82
+train,KLK-7319,frame_000159.png,82
+train,KLK-7319,frame_000164.png,82
+train,KLK-7319,frame_000169.png,82
+train,KLK-7319,frame_000175.png,82
+train,KLK-7319,frame_000180.png,82
+train,KLK-7319,frame_000185.png,82
+train,KLK-7319,frame_000190.png,82
+train,KLK-7319,frame_000195.png,82
+train,KLK-7319,frame_000200.png,82
+train,KLK-7319,frame_000205.png,82
+train,KLK-7319,frame_000210.png,82
+train,KLM-2335,frame_000885.png,842
+train,KLM-2335,frame_000890.png,842
+train,KLM-2335,frame_000895.png,842
+train,KLM-2335,frame_000900.png,842
+train,KLM-2335,frame_000905.png,842
+train,KLM-2335,frame_000910.png,842
+train,KLM-2335,frame_000915.png,842
+train,KLM-2335,frame_000919.png,842
+train,KLM-2335,frame_000924.png,842
+train,KLM-2335,frame_000929.png,842
+train,KLM-2335,frame_000934.png,842
+train,KLM-2335,frame_000939.png,842
+train,KLM-2335,frame_000944.png,842
+train,KLM-2335,frame_000949.png,842
+train,KLM-2335,frame_000954.png,842
+train,KLM-2335,frame_000959.png,842
+train,KLM-2335,frame_000964.png,842
+train,KLM-2335,frame_000969.png,842
+train,KLM-2335,frame_000974.png,842
+train,KLM-2335,frame_000978.png,842
+train,KLM-2335,frame_000993.png,842
+train,KLM-2335,frame_000998.png,842
+train,KLM-2335,frame_001003.png,842
+train,KLM-2335,frame_001008.png,842
+train,KLM-2335,frame_001013.png,842
+train,KLM-2335,frame_001018.png,842
+train,KLM-2335,frame_001023.png,842
+train,KLM-2335,frame_001028.png,842
+train,KLM-2335,frame_001033.png,842
+train,KLM-2335,frame_001038.png,842
+train,KLM-2335,frame_001043.png,842
+train,KLM-2335,frame_001047.png,842
+train,KLM-2335,frame_001052.png,842
+train,KLM-2335,frame_001057.png,842
+train,KLM-2335,frame_001062.png,842
+train,KLM-2335,frame_001067.png,842
+train,KLM-2335,frame_001072.png,842
+train,KLM-2335,frame_001077.png,842
+train,KLM-2335,frame_001082.png,842
+train,KLM-2335,frame_001087.png,842
+train,KLM-2335,frame_001092.png,842
+train,KLM-2335,frame_001097.png,842
+train,KLM-2335,frame_001102.png,842
+train,KLM-2335,frame_001106.png,842
+train,KLM-2335,frame_001111.png,842
+train,KLM-2335,frame_001116.png,842
+train,KLM-2335,frame_001121.png,842
+train,KLM-2335,frame_001126.png,842
+train,KLM-2335,frame_001131.png,842
+train,KLM-2335,frame_001136.png,842
+train,KLM-2335,frame_001141.png,842
+train,KLM-2335,frame_001146.png,842
+train,KLM-2335,frame_001151.png,842
+train,KLM-2335,frame_001156.png,842
+train,KLM-2335,frame_001161.png,842
+train,KLM-2335,frame_001165.png,842
+train,KLM-2335,frame_001170.png,842
+train,KLM-2335,frame_001175.png,842
+train,KLM-2335,frame_001180.png,842
+train,KLM-2335,frame_001185.png,842
+train,KLM-2335,frame_001190.png,842
+train,KLM-2335,frame_001195.png,842
+train,KLM-2335,frame_001200.png,842
+train,KLM-2335,frame_001205.png,842
+train,KLM-2335,frame_001210.png,842
+train,KLM-2335,frame_001215.png,842
+train,KLM-2335,frame_001220.png,842
+train,KLM-2335,frame_001225.png,842
+train,KLM-2335,frame_001229.png,842
+train,KLM-2335,frame_001234.png,842
+train,KLM-2335,frame_001239.png,842
+train,KLM-2335,frame_001244.png,842
+train,KLM-2335,frame_001249.png,842
+train,KLM-2335,frame_001254.png,842
+train,KLM-2335,frame_001259.png,842
+train,KLM-2335,frame_001264.png,842
+train,KLM-2335,frame_001269.png,842
+train,KLM-2335,frame_001274.png,842
+train,KLM-2335,frame_001279.png,842
+train,KLM-2335,frame_001284.png,842
+train,KLM-2335,frame_001288.png,842
+train,KLM-2335,frame_001293.png,842
+train,KLM-2335,frame_001298.png,842
+train,KLM-2335,frame_001303.png,842
+train,KLM-2335,frame_001308.png,842
+train,KLM-2335,frame_001313.png,842
+train,KLM-2335,frame_001318.png,842
+train,KLM-2335,frame_001323.png,842
+train,KLM-2335,frame_001328.png,842
+train,KLM-2335,frame_001333.png,842
+train,KLM-2335,frame_001338.png,842
+train,KLM-2335,frame_001343.png,842
+train,KLM-2335,frame_001347.png,842
+train,KLM-2335,frame_001352.png,842
+train,KLM-2335,frame_001357.png,842
+train,KLM-2335,frame_001362.png,842
+train,KLM-2335,frame_001367.png,842
+train,KLM-2335,frame_001372.png,842
+train,KLM-2335,frame_001377.png,842
+train,KLM-2335,frame_001382.png,842
+train,KLM-2335,frame_001387.png,842
+train,KLM-2335,frame_001392.png,842
+train,KLM-2335,frame_001397.png,842
+train,KLM-2335,frame_001402.png,842
+train,KLM-2335,frame_001406.png,842
+train,KLM-2335,frame_001411.png,842
+train,KLM-2335,frame_001416.png,842
+train,KLM-2335,frame_001421.png,842
+train,KLM-2335,frame_001426.png,842
+train,KLM-2335,frame_001431.png,842
+train,KLM-2335,frame_001436.png,842
+train,KLM-2335,frame_001441.png,842
+train,KLM-2335,frame_001446.png,842
+train,KLM-2335,frame_001451.png,842
+train,KLM-2335,frame_001456.png,842
+train,KLM-2335,frame_001461.png,842
+train,KLM-2335,frame_001466.png,842
+train,KLM-2335,frame_001470.png,842
+train,KLM-2335,frame_001475.png,842
+train,KLM-2335,frame_001480.png,842
+train,KLM-2335,frame_001485.png,842
+train,KLM-2335,frame_001490.png,842
+train,KLM-2335,frame_001495.png,842
+train,KLM-2335,frame_001500.png,842
+train,KLM-2335,frame_001505.png,842
+train,KLM-2335,frame_001510.png,842
+train,KLM-2335,frame_001515.png,842
+train,KLM-2335,frame_001520.png,842
+train,KLM-2335,frame_001525.png,842
+train,KLM-2335,frame_001529.png,842
+train,KLM-2335,frame_001534.png,842
+train,KLM-2335,frame_001539.png,842
+train,KLM-2335,frame_001544.png,842
+train,KLM-2335,frame_001549.png,842
+train,KLM-2335,frame_001554.png,842
+train,KLM-2335,frame_001559.png,842
+train,KLM-2335,frame_001564.png,842
+train,KLM-2335,frame_001569.png,842
+train,KLM-2335,frame_001574.png,842
+train,KLM-2335,frame_001579.png,842
+train,KLM-2335,frame_001584.png,842
+train,KLM-2335,frame_001588.png,842
+train,KLM-2335,frame_001593.png,842
+train,KLM-2335,frame_001598.png,842
+train,KLM-2335,frame_001603.png,842
+train,KLM-2335,frame_001608.png,842
+train,KLM-2335,frame_001613.png,842
+train,KLM-2335,frame_001618.png,842
+train,KLM-2335,frame_001623.png,842
+train,KLM-2335,frame_001628.png,842
+train,KLM-2335,frame_001633.png,842
+train,KLM-2335,frame_001638.png,842
+train,KLM-2335,frame_001643.png,842
+train,KLM-2335,frame_001647.png,842
+train,KLM-2335,frame_001652.png,842
+train,KLM-2335,frame_001657.png,842
+train,KLM-2335,frame_001662.png,842
+train,KLM-2335,frame_001667.png,842
+train,KLM-2335,frame_001672.png,842
+train,KLM-2335,frame_001677.png,842
+train,KLM-2335,frame_001682.png,842
+train,KLM-2335,frame_001687.png,842
+train,KLM-2335,frame_001692.png,842
+train,KLM-2335,frame_001697.png,842
+train,KLM-2335,frame_001702.png,842
+train,KLM-2335,frame_001706.png,842
+train,KLM-2335,frame_001711.png,842
+train,KLM-2335,frame_001716.png,842
+train,KLM-2335,frame_001721.png,842
+train,KLM-2335,frame_001726.png,842
+train,KLM-2335,frame_001731.png,842
+train,KLM-2335,frame_001736.png,842
+train,TDS-6957,frame_000880.png,141
+train,TDS-6957,frame_000885.png,141
+train,TDS-6957,frame_000890.png,141
+train,TDS-6957,frame_000895.png,141
+train,TDS-6957,frame_000900.png,141
+train,TDS-6957,frame_000905.png,141
+train,TDS-6957,frame_000910.png,141
+train,TDS-6957,frame_000915.png,141
+train,TDS-6957,frame_000920.png,141
+train,TDS-6957,frame_000925.png,141
+train,TDS-6957,frame_000930.png,141
+train,TDS-6957,frame_000935.png,141
+train,TDS-6957,frame_000940.png,141
+train,TDS-6957,frame_000945.png,141
+train,TDS-6957,frame_000950.png,141
+train,TDS-6957,frame_000955.png,141
+train,TDS-6957,frame_000960.png,141
+train,TDS-6957,frame_000965.png,141
+train,TDS-6957,frame_000970.png,141
+train,TDS-6957,frame_000975.png,141
+train,TDS-6957,frame_000980.png,141
+train,TDS-6957,frame_000985.png,141
+train,TDS-6957,frame_000990.png,141
+train,TDS-6957,frame_000995.png,141
+train,TDS-6957,frame_001000.png,141
+train,TDS-6957,frame_001005.png,141
+train,TDS-6957,frame_001010.png,141
+train,TDS-6957,frame_001015.png,141
+train,TDS-6957,frame_001020.png,141
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001199.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001204.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001209.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001214.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001219.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001224.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001228.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001233.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001238.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001243.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001248.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001253.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001258.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001263.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001268.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001273.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001277.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001282.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001287.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001292.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001297.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001302.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001307.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001312.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001317.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001322.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001327.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001331.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001336.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001341.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001346.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001351.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001356.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001361.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001366.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001371.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001376.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001381.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001385.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001390.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001395.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001400.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001405.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001410.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001415.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001420.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001425.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001430.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001434.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001439.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001444.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001449.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001454.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001459.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001464.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001469.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001474.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001479.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001484.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001488.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001493.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001498.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001503.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001508.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001513.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001518.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001523.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001528.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001533.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001537.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001542.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001547.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001552.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001557.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001562.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001567.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001572.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001577.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001582.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001587.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001591.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001596.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001601.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001606.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001611.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001616.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001621.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001626.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001631.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001636.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001641.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001645.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001650.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001655.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001660.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001665.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001670.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001675.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001680.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001685.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001690.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001694.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001699.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001704.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001709.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001714.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001719.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001724.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001729.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001734.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001739.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001744.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001748.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001753.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001758.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001763.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001768.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001773.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001778.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001783.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001788.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001793.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001798.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001802.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001807.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001812.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001817.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001822.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001827.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001832.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001837.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001842.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001847.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001851.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001856.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001861.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001866.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001871.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001876.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001881.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001886.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001891.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001896.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001901.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001905.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001910.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001915.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001920.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001925.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001930.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001935.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001940.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001945.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001950.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001954.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001959.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001964.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001969.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001974.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001979.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001984.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001989.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001994.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_001999.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002004.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002008.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002013.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002018.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002023.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002028.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002033.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002038.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002043.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002048.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002053.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002058.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002062.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002067.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002072.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002077.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002082.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002087.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002092.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002097.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002102.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002107.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002111.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002116.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002121.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002126.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002131.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002136.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002141.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002146.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002151.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002156.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002161.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002165.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002170.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002175.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002180.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002185.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002190.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002195.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002200.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002205.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002210.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002214.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002219.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002224.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002229.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002234.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002239.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002244.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002249.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002254.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002259.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002264.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002268.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002273.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002278.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002283.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002288.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002293.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002298.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002303.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002308.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002313.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002318.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002322.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002327.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002332.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002337.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002342.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002347.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002352.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002357.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002362.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002367.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002371.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002376.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002381.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002386.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002391.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002396.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002401.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002406.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002411.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002416.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002421.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002425.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002430.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002435.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002440.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002445.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002450.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002455.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002460.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002465.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002470.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002475.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002479.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002484.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002489.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002494.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002499.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002504.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002509.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002514.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002519.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002524.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002528.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002533.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002538.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002543.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002548.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002553.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002558.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002563.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002568.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002573.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002578.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002582.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002587.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002592.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002597.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002602.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002607.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002612.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002617.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002622.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002627.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002631.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002636.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002641.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002646.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002651.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002656.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002661.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002666.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002671.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002676.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002681.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002685.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002690.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002695.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002700.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002705.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002710.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002715.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002720.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002725.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002730.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002735.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002739.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002744.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002749.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002754.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002759.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002764.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002769.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002774.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002779.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002784.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002788.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002793.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002798.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002803.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002808.png,1615
+train,八德_462-GR_328-01-22_20240924083933_processed (1),frame_002813.png,1615
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003929.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003934.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003939.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003944.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003949.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003954.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003959.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003964.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003969.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003974.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003979.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003983.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003988.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003993.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_003998.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004003.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004008.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004013.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004018.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004023.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004028.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004033.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004038.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004043.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004048.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004053.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004058.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004063.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004068.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004073.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004078.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004083.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004088.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004092.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004097.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004102.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004107.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004112.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004117.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004122.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004127.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004132.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004137.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004142.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004147.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004152.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004157.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004162.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004167.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004172.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004177.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004182.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004187.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004192.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004197.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004201.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004206.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004211.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004216.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004221.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004226.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004231.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004236.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004241.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004246.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004251.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004256.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004261.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004266.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004271.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004276.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004281.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004286.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004291.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004296.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004301.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004306.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004310.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004315.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004320.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004325.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004330.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004335.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004340.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004345.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004350.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004355.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004360.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004365.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004370.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004375.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004380.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004385.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004390.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004395.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004400.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004405.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004410.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004415.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004419.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004424.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004429.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004434.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004439.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004444.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004449.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004454.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004459.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004464.png,541
+train,八德_BHA-9825_328-01-22_20241004090002_processed (2),frame_004469.png,541
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000860.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000865.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000870.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000875.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000880.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000885.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000890.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000895.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000900.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000905.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000910.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000915.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000920.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000925.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000930.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000935.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000940.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000945.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000950.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000955.png,101
+train,八德_NFH-1236_FILE-250317-083110-000050_2025-03-17-08-31-10_processed (1),frame_000960.png,101
+train,大園_大園區中隊AI_processed,frame_000331.png,5
+train,大園_大園區中隊AI_processed,frame_000333.png,5
+train,大園_大園區中隊AI_processed,frame_000335.png,5
+train,大溪_1140211(杯蓋)_processed,frame_000567.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000572.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000577.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000582.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000587.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000592.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000597.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000602.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000607.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000612.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000617.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000622.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000627.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000632.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000637.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000642.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000647.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000652.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000657.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000662.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000667.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000672.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000677.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000682.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000687.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000691.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000696.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000701.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000706.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000711.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000716.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000721.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000726.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000731.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000736.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000741.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000746.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000751.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000756.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000761.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000766.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000771.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000776.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000781.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000786.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000791.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000796.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000801.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000806.png,245
+train,大溪_1140211(杯蓋)_processed,frame_000811.png,245
+train,大溪_1140318--紙屑_processed,frame_000191.png,703
+train,大溪_1140318--紙屑_processed,frame_000196.png,703
+train,大溪_1140318--紙屑_processed,frame_000201.png,703
+train,大溪_1140318--紙屑_processed,frame_000206.png,703
+train,大溪_1140318--紙屑_processed,frame_000211.png,703
+train,大溪_1140318--紙屑_processed,frame_000216.png,703
+train,大溪_1140318--紙屑_processed,frame_000220.png,703
+train,大溪_1140318--紙屑_processed,frame_000225.png,703
+train,大溪_1140318--紙屑_processed,frame_000230.png,703
+train,大溪_1140318--紙屑_processed,frame_000235.png,703
+train,大溪_1140318--紙屑_processed,frame_000240.png,703
+train,大溪_1140318--紙屑_processed,frame_000245.png,703
+train,大溪_1140318--紙屑_processed,frame_000250.png,703
+train,大溪_1140318--紙屑_processed,frame_000255.png,703
+train,大溪_1140318--紙屑_processed,frame_000260.png,703
+train,大溪_1140318--紙屑_processed,frame_000265.png,703
+train,大溪_1140318--紙屑_processed,frame_000270.png,703
+train,大溪_1140318--紙屑_processed,frame_000274.png,703
+train,大溪_1140318--紙屑_processed,frame_000279.png,703
+train,大溪_1140318--紙屑_processed,frame_000284.png,703
+train,大溪_1140318--紙屑_processed,frame_000289.png,703
+train,大溪_1140318--紙屑_processed,frame_000294.png,703
+train,大溪_1140318--紙屑_processed,frame_000299.png,703
+train,大溪_1140318--紙屑_processed,frame_000304.png,703
+train,大溪_1140318--紙屑_processed,frame_000309.png,703
+train,大溪_1140318--紙屑_processed,frame_000314.png,703
+train,大溪_1140318--紙屑_processed,frame_000319.png,703
+train,大溪_1140318--紙屑_processed,frame_000324.png,703
+train,大溪_1140318--紙屑_processed,frame_000328.png,703
+train,大溪_1140318--紙屑_processed,frame_000333.png,703
+train,大溪_1140318--紙屑_processed,frame_000338.png,703
+train,大溪_1140318--紙屑_processed,frame_000343.png,703
+train,大溪_1140318--紙屑_processed,frame_000348.png,703
+train,大溪_1140318--紙屑_processed,frame_000353.png,703
+train,大溪_1140318--紙屑_processed,frame_000358.png,703
+train,大溪_1140318--紙屑_processed,frame_000363.png,703
+train,大溪_1140318--紙屑_processed,frame_000368.png,703
+train,大溪_1140318--紙屑_processed,frame_000373.png,703
+train,大溪_1140318--紙屑_processed,frame_000378.png,703
+train,大溪_1140318--紙屑_processed,frame_000382.png,703
+train,大溪_1140318--紙屑_processed,frame_000387.png,703
+train,大溪_1140318--紙屑_processed,frame_000392.png,703
+train,大溪_1140318--紙屑_processed,frame_000397.png,703
+train,大溪_1140318--紙屑_processed,frame_000402.png,703
+train,大溪_1140318--紙屑_processed,frame_000407.png,703
+train,大溪_1140318--紙屑_processed,frame_000412.png,703
+train,大溪_1140318--紙屑_processed,frame_000417.png,703
+train,大溪_1140318--紙屑_processed,frame_000422.png,703
+train,大溪_1140318--紙屑_processed,frame_000427.png,703
+train,大溪_1140318--紙屑_processed,frame_000432.png,703
+train,大溪_1140318--紙屑_processed,frame_000436.png,703
+train,大溪_1140318--紙屑_processed,frame_000441.png,703
+train,大溪_1140318--紙屑_processed,frame_000446.png,703
+train,大溪_1140318--紙屑_processed,frame_000451.png,703
+train,大溪_1140318--紙屑_processed,frame_000456.png,703
+train,大溪_1140318--紙屑_processed,frame_000461.png,703
+train,大溪_1140318--紙屑_processed,frame_000466.png,703
+train,大溪_1140318--紙屑_processed,frame_000471.png,703
+train,大溪_1140318--紙屑_processed,frame_000476.png,703
+train,大溪_1140318--紙屑_processed,frame_000481.png,703
+train,大溪_1140318--紙屑_processed,frame_000486.png,703
+train,大溪_1140318--紙屑_processed,frame_000490.png,703
+train,大溪_1140318--紙屑_processed,frame_000495.png,703
+train,大溪_1140318--紙屑_processed,frame_000500.png,703
+train,大溪_1140318--紙屑_processed,frame_000505.png,703
+train,大溪_1140318--紙屑_processed,frame_000510.png,703
+train,大溪_1140318--紙屑_processed,frame_000515.png,703
+train,大溪_1140318--紙屑_processed,frame_000520.png,703
+train,大溪_1140318--紙屑_processed,frame_000525.png,703
+train,大溪_1140318--紙屑_processed,frame_000530.png,703
+train,大溪_1140318--紙屑_processed,frame_000535.png,703
+train,大溪_1140318--紙屑_processed,frame_000540.png,703
+train,大溪_1140318--紙屑_processed,frame_000544.png,703
+train,大溪_1140318--紙屑_processed,frame_000549.png,703
+train,大溪_1140318--紙屑_processed,frame_000554.png,703
+train,大溪_1140318--紙屑_processed,frame_000559.png,703
+train,大溪_1140318--紙屑_processed,frame_000564.png,703
+train,大溪_1140318--紙屑_processed,frame_000569.png,703
+train,大溪_1140318--紙屑_processed,frame_000574.png,703
+train,大溪_1140318--紙屑_processed,frame_000579.png,703
+train,大溪_1140318--紙屑_processed,frame_000584.png,703
+train,大溪_1140318--紙屑_processed,frame_000589.png,703
+train,大溪_1140318--紙屑_processed,frame_000594.png,703
+train,大溪_1140318--紙屑_processed,frame_000598.png,703
+train,大溪_1140318--紙屑_processed,frame_000603.png,703
+train,大溪_1140318--紙屑_processed,frame_000608.png,703
+train,大溪_1140318--紙屑_processed,frame_000613.png,703
+train,大溪_1140318--紙屑_processed,frame_000618.png,703
+train,大溪_1140318--紙屑_processed,frame_000623.png,703
+train,大溪_1140318--紙屑_processed,frame_000628.png,703
+train,大溪_1140318--紙屑_processed,frame_000633.png,703
+train,大溪_1140318--紙屑_processed,frame_000638.png,703
+train,大溪_1140318--紙屑_processed,frame_000643.png,703
+train,大溪_1140318--紙屑_processed,frame_000648.png,703
+train,大溪_1140318--紙屑_processed,frame_000652.png,703
+train,大溪_1140318--紙屑_processed,frame_000657.png,703
+train,大溪_1140318--紙屑_processed,frame_000662.png,703
+train,大溪_1140318--紙屑_processed,frame_000667.png,703
+train,大溪_1140318--紙屑_processed,frame_000672.png,703
+train,大溪_1140318--紙屑_processed,frame_000677.png,703
+train,大溪_1140318--紙屑_processed,frame_000682.png,703
+train,大溪_1140318--紙屑_processed,frame_000687.png,703
+train,大溪_1140318--紙屑_processed,frame_000692.png,703
+train,大溪_1140318--紙屑_processed,frame_000697.png,703
+train,大溪_1140318--紙屑_processed,frame_000702.png,703
+train,大溪_1140318--紙屑_processed,frame_000706.png,703
+train,大溪_1140318--紙屑_processed,frame_000711.png,703
+train,大溪_1140318--紙屑_processed,frame_000716.png,703
+train,大溪_1140318--紙屑_processed,frame_000721.png,703
+train,大溪_1140318--紙屑_processed,frame_000726.png,703
+train,大溪_1140318--紙屑_processed,frame_000731.png,703
+train,大溪_1140318--紙屑_processed,frame_000736.png,703
+train,大溪_1140318--紙屑_processed,frame_000741.png,703
+train,大溪_1140318--紙屑_processed,frame_000746.png,703
+train,大溪_1140318--紙屑_processed,frame_000751.png,703
+train,大溪_1140318--紙屑_processed,frame_000756.png,703
+train,大溪_1140318--紙屑_processed,frame_000760.png,703
+train,大溪_1140318--紙屑_processed,frame_000765.png,703
+train,大溪_1140318--紙屑_processed,frame_000770.png,703
+train,大溪_1140318--紙屑_processed,frame_000775.png,703
+train,大溪_1140318--紙屑_processed,frame_000780.png,703
+train,大溪_1140318--紙屑_processed,frame_000785.png,703
+train,大溪_1140318--紙屑_processed,frame_000790.png,703
+train,大溪_1140318--紙屑_processed,frame_000795.png,703
+train,大溪_1140318--紙屑_processed,frame_000800.png,703
+train,大溪_1140318--紙屑_processed,frame_000805.png,703
+train,大溪_1140318--紙屑_processed,frame_000810.png,703
+train,大溪_1140318--紙屑_processed,frame_000814.png,703
+train,大溪_1140318--紙屑_processed,frame_000819.png,703
+train,大溪_1140318--紙屑_processed,frame_000824.png,703
+train,大溪_1140318--紙屑_processed,frame_000829.png,703
+train,大溪_1140318--紙屑_processed,frame_000834.png,703
+train,大溪_1140318--紙屑_processed,frame_000839.png,703
+train,大溪_1140318--紙屑_processed,frame_000844.png,703
+train,大溪_1140318--紙屑_processed,frame_000849.png,703
+train,大溪_1140318--紙屑_processed,frame_000854.png,703
+train,大溪_1140318--紙屑_processed,frame_000859.png,703
+train,大溪_1140318--紙屑_processed,frame_000864.png,703
+train,大溪_1140318--紙屑_processed,frame_000868.png,703
+train,大溪_1140318--紙屑_processed,frame_000873.png,703
+train,大溪_1140318--紙屑_processed,frame_000878.png,703
+train,大溪_1140318--紙屑_processed,frame_000883.png,703
+train,大溪_1140318--紙屑_processed,frame_000888.png,703
+train,大溪_1140318--紙屑_processed,frame_000893.png,703
+train,大溪_1140416-ch055_飲料杯_processed (1),frame_000323.png,21
+train,大溪_1140416-ch055_飲料杯_processed (1),frame_000330.png,21
+train,大溪_1140416-ch055_飲料杯_processed (1),frame_000336.png,21
+train,大溪_1140416-ch055_飲料杯_processed (1),frame_000491.png,21
+train,大溪_1140416-ch056_飲料杯_processed,frame_000755.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000760.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000765.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000770.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000775.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000780.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000785.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000790.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000795.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000800.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000805.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000810.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000815.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000820.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000825.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000830.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000835.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000841.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000846.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000851.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000856.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000861.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000866.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000871.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000876.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000881.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000886.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000891.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000896.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000901.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000906.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000911.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000916.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000921.png,172
+train,大溪_1140416-ch056_飲料杯_processed,frame_000926.png,172
+train,大溪_20250518140123-寶特瓶_processed,frame_000581.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000586.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000591.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000596.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000601.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000606.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000611.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000616.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000621.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000626.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000631.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000636.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000641.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000646.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000651.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000656.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000661.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000666.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000671.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000676.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000681.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000686.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000691.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000696.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000701.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000706.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000711.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000716.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000721.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000726.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000731.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000735.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000740.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000745.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000750.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000755.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000760.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000765.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000770.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000775.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000780.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000785.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000790.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000795.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000800.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000805.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000810.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000815.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000820.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000825.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000830.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000835.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000840.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000845.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000850.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000855.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000860.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000865.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000870.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000875.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000880.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000885.png,310
+train,大溪_20250518140123-寶特瓶_processed,frame_000890.png,310
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000589.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000594.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000599.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000604.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000609.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000614.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000619.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000624.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000629.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000634.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000639.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000644.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000649.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000654.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000659.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000664.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000669.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000674.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000679.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000684.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000689.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000694.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000699.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000704.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000709.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000714.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000719.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000724.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000729.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000734.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000739.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000743.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000748.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000753.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000758.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000763.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000768.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000773.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000778.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000783.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000788.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000793.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000798.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000803.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000808.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000813.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000818.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000823.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000828.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000833.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000838.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000843.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000848.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000853.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000858.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000863.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000868.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000873.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000878.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000883.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000888.png,305
+train,大溪_20250528131554-瓶子 (1)_processed,frame_000893.png,305
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000068.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000073.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000078.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000083.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000088.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000093.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000097.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000102.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000107.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000112.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000117.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000122.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000127.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000132.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000137.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000142.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000147.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000151.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000156.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000161.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000166.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000171.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000176.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000181.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000186.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000191.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000196.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000201.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000206.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000210.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000215.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000220.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000225.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000230.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000235.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000240.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000245.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000250.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000255.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000260.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000264.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000269.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000274.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000279.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000284.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000289.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000294.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000299.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000304.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000309.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000314.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000318.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000323.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000328.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000333.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000338.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000343.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000348.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000353.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000358.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000363.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000368.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000372.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000377.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000382.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000387.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000392.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000397.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000402.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000407.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000412.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000417.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000422.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000427.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000431.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000436.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000441.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000446.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000451.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000456.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000461.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000466.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000471.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000476.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000481.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000485.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000490.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000495.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000500.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000505.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000510.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000515.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000520.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000525.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000530.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000535.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000539.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000544.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000549.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000554.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000559.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000564.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000569.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000574.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000579.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000584.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000589.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000594.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000598.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000603.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000608.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000613.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000618.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000623.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000628.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000633.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000638.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000643.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000648.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000652.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000657.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000662.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000667.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000672.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000677.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000682.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000687.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000692.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000697.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000702.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000706.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000711.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000716.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000721.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000726.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000731.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000736.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000741.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000746.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000751.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000756.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000760.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000765.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000770.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000775.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000780.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000785.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000790.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000795.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000800.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000805.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000810.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000815.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000819.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000824.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000829.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000834.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000839.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000844.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000849.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000854.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000859.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000864.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000869.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000873.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000878.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000883.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000888.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000893.png,831
+train,大溪_ch055_20250702105801-垃圾包_processed,frame_000898.png,831
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000560.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000565.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000570.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000575.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000580.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000585.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000590.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000595.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000600.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000605.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000610.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000615.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000620.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000625.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000630.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000635.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000640.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000644.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000649.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000654.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000659.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000664.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000669.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000674.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000679.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000684.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000689.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000694.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000699.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000704.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000709.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000714.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000719.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000724.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000729.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000734.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000739.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000744.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000749.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000754.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000759.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000764.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000769.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000774.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000779.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000784.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000789.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000794.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000799.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000804.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000809.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000814.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000818.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000823.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000828.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000833.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000838.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000843.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000848.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000853.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000858.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000863.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000868.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000873.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000878.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000883.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000888.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000893.png,339
+train,大溪_ch055_20250717213700-一般廢棄物(行為)_processed,frame_000898.png,339
+train,大溪_ch055_20250726104638-杯子_processed,frame_000099.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000104.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000109.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000114.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000119.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000124.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000129.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000134.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000140.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000145.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000150.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000155.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000160.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000165.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000170.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000175.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000180.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000185.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000190.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000195.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000200.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000205.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000211.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000216.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000221.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000226.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000231.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000236.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000241.png,148
+train,大溪_ch055_20250726104638-杯子_processed,frame_000246.png,148
+train,新屋_327-04-62_20250604103457_processed_1,frame_000000.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000005.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000011.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000016.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000022.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000027.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000033.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000038.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000044.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000049.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000055.png,61
+train,新屋_327-04-62_20250604103457_processed_1,frame_000060.png,61
+train,新屋_327-04-62_20250604103457_processed_2,frame_000000.png,16
+train,新屋_327-04-62_20250604103457_processed_2,frame_000008.png,16
+train,新屋_327-04-62_20250604103457_processed_2,frame_000015.png,16
+train,桃園_PIR_0140_processed,frame_000000.png,84
+train,桃園_PIR_0140_processed,frame_000005.png,84
+train,桃園_PIR_0140_processed,frame_000010.png,84
+train,桃園_PIR_0140_processed,frame_000016.png,84
+train,桃園_PIR_0140_processed,frame_000021.png,84
+train,桃園_PIR_0140_processed,frame_000026.png,84
+train,桃園_PIR_0140_processed,frame_000031.png,84
+train,桃園_PIR_0140_processed,frame_000036.png,84
+train,桃園_PIR_0140_processed,frame_000042.png,84
+train,桃園_PIR_0140_processed,frame_000047.png,84
+train,桃園_PIR_0140_processed,frame_000052.png,84
+train,桃園_PIR_0140_processed,frame_000057.png,84
+train,桃園_PIR_0140_processed,frame_000062.png,84
+train,桃園_PIR_0140_processed,frame_000067.png,84
+train,桃園_PIR_0140_processed,frame_000073.png,84
+train,桃園_PIR_0140_processed,frame_000078.png,84
+train,桃園_PIR_0140_processed,frame_000083.png,84
+train,桃園_PIR_2460_processed,frame_000076.png,66
+train,桃園_PIR_2460_processed,frame_000081.png,66
+train,桃園_PIR_2460_processed,frame_000087.png,66
+train,桃園_PIR_2460_processed,frame_000092.png,66
+train,桃園_PIR_2460_processed,frame_000098.png,66
+train,桃園_PIR_2460_processed,frame_000103.png,66
+train,桃園_PIR_2460_processed,frame_000110.png,66
+train,桃園_PIR_2460_processed,frame_000116.png,66
+train,桃園_PIR_2460_processed,frame_000121.png,66
+train,桃園_PIR_2460_processed,frame_000127.png,66
+train,桃園_PIR_2460_processed,frame_000132.png,66
+train,桃園_PIR_2460_processed,frame_000138.png,66
+train,桃園_PIR_2460_processed,frame_000143.png,66
+train,桃園_PIR_2981_processed,frame_000019.png,9
+train,桃園_PIR_2981_processed,frame_000023.png,9
+train,桃園_PIR_2981_processed,frame_000027.png,9
+train,桃園_PIR_3016_processed,frame_000037.png,27
+train,桃園_PIR_3016_processed,frame_000042.png,27
+train,桃園_PIR_3016_processed,frame_000047.png,27
+train,桃園_PIR_3016_processed,frame_000053.png,27
+train,桃園_PIR_3016_processed,frame_000058.png,27
+train,桃園_PIR_3016_processed,frame_000065.png,27
+train,桃園_PIR_3245_processed,frame_000331.png,21
+train,桃園_PIR_3245_processed,frame_000338.png,21
+train,桃園_PIR_3245_processed,frame_000344.png,21
+train,桃園_PIR_3245_processed,frame_000351.png,21
+train,桃園_TLC00005_processed,frame_000000.png,7
+train,桃園_TLC00005_processed,frame_000003.png,7
+train,桃園_TLC00005_processed,frame_000007.png,7
+train,桃園_TLC00111 6-19_processed,frame_000220.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000225.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000230.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000235.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000240.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000245.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000249.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000254.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000259.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000264.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000269.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000274.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000279.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000284.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000289.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000294.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000299.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000303.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000308.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000313.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000318.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000323.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000328.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000333.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000338.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000343.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000348.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000353.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000358.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000362.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000367.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000372.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000377.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000382.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000387.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000392.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000397.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000402.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000407.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000412.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000416.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000421.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000426.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000431.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000436.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000441.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000446.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000451.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000456.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000461.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000466.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000470.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000475.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000480.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000485.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000490.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000495.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000500.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000505.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000510.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000515.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000520.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000524.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000529.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000534.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000539.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000544.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000549.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000554.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000559.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000564.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000569.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000574.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000579.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000583.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000588.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000593.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000598.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000603.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000608.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000613.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000618.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000623.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000628.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000633.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000637.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000642.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000647.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000652.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000657.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000662.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000667.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000672.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000677.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000682.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000687.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000691.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000696.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000701.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000706.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000711.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000716.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000721.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000726.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000731.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000736.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000741.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000745.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000750.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000755.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000760.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000765.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000770.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000775.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000780.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000785.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000790.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000795.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000800.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000804.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000809.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000814.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000819.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000824.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000829.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000834.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000839.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000844.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000849.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000854.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000858.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000863.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000868.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000873.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000878.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000883.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000888.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000893.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000898.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000903.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000908.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000912.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000917.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000922.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000927.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000932.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000937.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000942.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000947.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000952.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000957.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000962.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000966.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000971.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000976.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000981.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000986.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000991.png,1160
+train,桃園_TLC00111 6-19_processed,frame_000996.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001001.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001006.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001011.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001016.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001020.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001025.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001030.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001035.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001040.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001045.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001050.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001055.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001060.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001065.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001070.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001075.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001079.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001084.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001089.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001094.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001099.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001104.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001109.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001114.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001119.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001124.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001129.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001133.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001138.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001143.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001148.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001153.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001158.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001163.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001168.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001173.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001178.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001183.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001187.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001192.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001197.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001202.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001207.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001212.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001217.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001222.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001227.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001232.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001237.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001241.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001246.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001251.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001256.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001261.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001266.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001271.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001276.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001281.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001286.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001291.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001296.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001300.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001305.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001310.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001315.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001320.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001325.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001330.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001335.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001340.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001345.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001350.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001354.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001359.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001364.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001369.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001374.png,1160
+train,桃園_TLC00111 6-19_processed,frame_001379.png,1160
+train,桃園_TLC00161 6-19_processed,frame_000000.png,712
+train,桃園_TLC00161 6-19_processed,frame_000005.png,712
+train,桃園_TLC00161 6-19_processed,frame_000010.png,712
+train,桃園_TLC00161 6-19_processed,frame_000015.png,712
+train,桃園_TLC00161 6-19_processed,frame_000020.png,712
+train,桃園_TLC00161 6-19_processed,frame_000025.png,712
+train,桃園_TLC00161 6-19_processed,frame_000030.png,712
+train,桃園_TLC00161 6-19_processed,frame_000035.png,712
+train,桃園_TLC00161 6-19_processed,frame_000040.png,712
+train,桃園_TLC00161 6-19_processed,frame_000044.png,712
+train,桃園_TLC00161 6-19_processed,frame_000049.png,712
+train,桃園_TLC00161 6-19_processed,frame_000054.png,712
+train,桃園_TLC00161 6-19_processed,frame_000059.png,712
+train,桃園_TLC00161 6-19_processed,frame_000064.png,712
+train,桃園_TLC00161 6-19_processed,frame_000069.png,712
+train,桃園_TLC00161 6-19_processed,frame_000074.png,712
+train,桃園_TLC00161 6-19_processed,frame_000079.png,712
+train,桃園_TLC00161 6-19_processed,frame_000084.png,712
+train,桃園_TLC00161 6-19_processed,frame_000089.png,712
+train,桃園_TLC00161 6-19_processed,frame_000094.png,712
+train,桃園_TLC00161 6-19_processed,frame_000099.png,712
+train,桃園_TLC00161 6-19_processed,frame_000104.png,712
+train,桃園_TLC00161 6-19_processed,frame_000109.png,712
+train,桃園_TLC00161 6-19_processed,frame_000114.png,712
+train,桃園_TLC00161 6-19_processed,frame_000118.png,712
+train,桃園_TLC00161 6-19_processed,frame_000123.png,712
+train,桃園_TLC00161 6-19_processed,frame_000128.png,712
+train,桃園_TLC00161 6-19_processed,frame_000133.png,712
+train,桃園_TLC00161 6-19_processed,frame_000138.png,712
+train,桃園_TLC00161 6-19_processed,frame_000143.png,712
+train,桃園_TLC00161 6-19_processed,frame_000148.png,712
+train,桃園_TLC00161 6-19_processed,frame_000153.png,712
+train,桃園_TLC00161 6-19_processed,frame_000158.png,712
+train,桃園_TLC00161 6-19_processed,frame_000163.png,712
+train,桃園_TLC00161 6-19_processed,frame_000168.png,712
+train,桃園_TLC00161 6-19_processed,frame_000173.png,712
+train,桃園_TLC00161 6-19_processed,frame_000178.png,712
+train,桃園_TLC00161 6-19_processed,frame_000183.png,712
+train,桃園_TLC00161 6-19_processed,frame_000188.png,712
+train,桃園_TLC00161 6-19_processed,frame_000193.png,712
+train,桃園_TLC00161 6-19_processed,frame_000198.png,712
+train,桃園_TLC00161 6-19_processed,frame_000202.png,712
+train,桃園_TLC00161 6-19_processed,frame_000207.png,712
+train,桃園_TLC00161 6-19_processed,frame_000212.png,712
+train,桃園_TLC00161 6-19_processed,frame_000217.png,712
+train,桃園_TLC00161 6-19_processed,frame_000222.png,712
+train,桃園_TLC00161 6-19_processed,frame_000227.png,712
+train,桃園_TLC00161 6-19_processed,frame_000232.png,712
+train,桃園_TLC00161 6-19_processed,frame_000237.png,712
+train,桃園_TLC00161 6-19_processed,frame_000242.png,712
+train,桃園_TLC00161 6-19_processed,frame_000247.png,712
+train,桃園_TLC00161 6-19_processed,frame_000252.png,712
+train,桃園_TLC00161 6-19_processed,frame_000257.png,712
+train,桃園_TLC00161 6-19_processed,frame_000262.png,712
+train,桃園_TLC00161 6-19_processed,frame_000267.png,712
+train,桃園_TLC00161 6-19_processed,frame_000272.png,712
+train,桃園_TLC00161 6-19_processed,frame_000276.png,712
+train,桃園_TLC00161 6-19_processed,frame_000281.png,712
+train,桃園_TLC00161 6-19_processed,frame_000286.png,712
+train,桃園_TLC00161 6-19_processed,frame_000291.png,712
+train,桃園_TLC00161 6-19_processed,frame_000296.png,712
+train,桃園_TLC00161 6-19_processed,frame_000301.png,712
+train,桃園_TLC00161 6-19_processed,frame_000306.png,712
+train,桃園_TLC00161 6-19_processed,frame_000311.png,712
+train,桃園_TLC00161 6-19_processed,frame_000316.png,712
+train,桃園_TLC00161 6-19_processed,frame_000321.png,712
+train,桃園_TLC00161 6-19_processed,frame_000326.png,712
+train,桃園_TLC00161 6-19_processed,frame_000331.png,712
+train,桃園_TLC00161 6-19_processed,frame_000336.png,712
+train,桃園_TLC00161 6-19_processed,frame_000341.png,712
+train,桃園_TLC00161 6-19_processed,frame_000346.png,712
+train,桃園_TLC00161 6-19_processed,frame_000351.png,712
+train,桃園_TLC00161 6-19_processed,frame_000356.png,712
+train,桃園_TLC00161 6-19_processed,frame_000360.png,712
+train,桃園_TLC00161 6-19_processed,frame_000365.png,712
+train,桃園_TLC00161 6-19_processed,frame_000370.png,712
+train,桃園_TLC00161 6-19_processed,frame_000375.png,712
+train,桃園_TLC00161 6-19_processed,frame_000380.png,712
+train,桃園_TLC00161 6-19_processed,frame_000385.png,712
+train,桃園_TLC00161 6-19_processed,frame_000390.png,712
+train,桃園_TLC00161 6-19_processed,frame_000395.png,712
+train,桃園_TLC00161 6-19_processed,frame_000400.png,712
+train,桃園_TLC00161 6-19_processed,frame_000405.png,712
+train,桃園_TLC00161 6-19_processed,frame_000410.png,712
+train,桃園_TLC00161 6-19_processed,frame_000415.png,712
+train,桃園_TLC00161 6-19_processed,frame_000420.png,712
+train,桃園_TLC00161 6-19_processed,frame_000425.png,712
+train,桃園_TLC00161 6-19_processed,frame_000430.png,712
+train,桃園_TLC00161 6-19_processed,frame_000434.png,712
+train,桃園_TLC00161 6-19_processed,frame_000439.png,712
+train,桃園_TLC00161 6-19_processed,frame_000444.png,712
+train,桃園_TLC00161 6-19_processed,frame_000449.png,712
+train,桃園_TLC00161 6-19_processed,frame_000454.png,712
+train,桃園_TLC00161 6-19_processed,frame_000459.png,712
+train,桃園_TLC00161 6-19_processed,frame_000464.png,712
+train,桃園_TLC00161 6-19_processed,frame_000469.png,712
+train,桃園_TLC00161 6-19_processed,frame_000474.png,712
+train,桃園_TLC00161 6-19_processed,frame_000479.png,712
+train,桃園_TLC00161 6-19_processed,frame_000484.png,712
+train,桃園_TLC00161 6-19_processed,frame_000489.png,712
+train,桃園_TLC00161 6-19_processed,frame_000494.png,712
+train,桃園_TLC00161 6-19_processed,frame_000499.png,712
+train,桃園_TLC00161 6-19_processed,frame_000504.png,712
+train,桃園_TLC00161 6-19_processed,frame_000509.png,712
+train,桃園_TLC00161 6-19_processed,frame_000514.png,712
+train,桃園_TLC00161 6-19_processed,frame_000518.png,712
+train,桃園_TLC00161 6-19_processed,frame_000523.png,712
+train,桃園_TLC00161 6-19_processed,frame_000528.png,712
+train,桃園_TLC00161 6-19_processed,frame_000533.png,712
+train,桃園_TLC00161 6-19_processed,frame_000538.png,712
+train,桃園_TLC00161 6-19_processed,frame_000543.png,712
+train,桃園_TLC00161 6-19_processed,frame_000548.png,712
+train,桃園_TLC00161 6-19_processed,frame_000553.png,712
+train,桃園_TLC00161 6-19_processed,frame_000558.png,712
+train,桃園_TLC00161 6-19_processed,frame_000563.png,712
+train,桃園_TLC00161 6-19_processed,frame_000568.png,712
+train,桃園_TLC00161 6-19_processed,frame_000573.png,712
+train,桃園_TLC00161 6-19_processed,frame_000578.png,712
+train,桃園_TLC00161 6-19_processed,frame_000583.png,712
+train,桃園_TLC00161 6-19_processed,frame_000588.png,712
+train,桃園_TLC00161 6-19_processed,frame_000592.png,712
+train,桃園_TLC00161 6-19_processed,frame_000597.png,712
+train,桃園_TLC00161 6-19_processed,frame_000602.png,712
+train,桃園_TLC00161 6-19_processed,frame_000607.png,712
+train,桃園_TLC00161 6-19_processed,frame_000612.png,712
+train,桃園_TLC00161 6-19_processed,frame_000617.png,712
+train,桃園_TLC00161 6-19_processed,frame_000622.png,712
+train,桃園_TLC00161 6-19_processed,frame_000627.png,712
+train,桃園_TLC00161 6-19_processed,frame_000632.png,712
+train,桃園_TLC00161 6-19_processed,frame_000637.png,712
+train,桃園_TLC00161 6-19_processed,frame_000642.png,712
+train,桃園_TLC00161 6-19_processed,frame_000647.png,712
+train,桃園_TLC00161 6-19_processed,frame_000652.png,712
+train,桃園_TLC00161 6-19_processed,frame_000657.png,712
+train,桃園_TLC00161 6-19_processed,frame_000662.png,712
+train,桃園_TLC00161 6-19_processed,frame_000667.png,712
+train,桃園_TLC00161 6-19_processed,frame_000672.png,712
+train,桃園_TLC00161 6-19_processed,frame_000676.png,712
+train,桃園_TLC00161 6-19_processed,frame_000681.png,712
+train,桃園_TLC00161 6-19_processed,frame_000686.png,712
+train,桃園_TLC00161 6-19_processed,frame_000691.png,712
+train,桃園_TLC00161 6-19_processed,frame_000696.png,712
+train,桃園_TLC00161 6-19_processed,frame_000702.png,712
+train,桃園_TLC00161 6-19_processed,frame_000707.png,712
+train,桃園_TLC00161 6-19_processed,frame_000712.png,712
+train,桃園影片_2025_11月17日_1280x720,frame_000000.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000005.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000010.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000015.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000020.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000025.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000030.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000035.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000040.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000045.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000050.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000055.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000060.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000064.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000069.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000074.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000079.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000084.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000089.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000094.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000099.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000104.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000109.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000114.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000119.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000124.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000129.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000134.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000139.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000144.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000149.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000154.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000159.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000164.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000170.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000175.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000180.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000184.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000189.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000194.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000199.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000204.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000209.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000214.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000219.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000224.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000229.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000234.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000239.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000244.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000249.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000254.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000259.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000264.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000269.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000274.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000279.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000284.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000289.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000356.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000361.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000366.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000370.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000375.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000380.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000385.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000390.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000395.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000400.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000405.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000410.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000415.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000420.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000425.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000544.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000549.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000554.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000559.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000564.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000569.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000574.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000579.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000584.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000589.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000594.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000599.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000603.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000608.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000613.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000618.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000623.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000628.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000633.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000638.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000643.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000648.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000653.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000658.png,487
+train,桃園影片_2025_11月17日_1280x720,frame_000682.png,487
+validation,20250511_642991,frame_000104.png,5
+validation,20250511_642991,frame_000106.png,5
+validation,20250511_642991,frame_000108.png,5
+validation,BUQ6900,frame_000268.png,226
+validation,BUQ6900,frame_000273.png,226
+validation,BUQ6900,frame_000278.png,226
+validation,BUQ6900,frame_000283.png,226
+validation,BUQ6900,frame_000288.png,226
+validation,BUQ6900,frame_000293.png,226
+validation,BUQ6900,frame_000298.png,226
+validation,BUQ6900,frame_000303.png,226
+validation,BUQ6900,frame_000308.png,226
+validation,BUQ6900,frame_000313.png,226
+validation,BUQ6900,frame_000318.png,226
+validation,BUQ6900,frame_000323.png,226
+validation,BUQ6900,frame_000328.png,226
+validation,BUQ6900,frame_000333.png,226
+validation,BUQ6900,frame_000338.png,226
+validation,BUQ6900,frame_000343.png,226
+validation,BUQ6900,frame_000348.png,226
+validation,BUQ6900,frame_000353.png,226
+validation,BUQ6900,frame_000358.png,226
+validation,BUQ6900,frame_000363.png,226
+validation,BUQ6900,frame_000368.png,226
+validation,BUQ6900,frame_000373.png,226
+validation,BUQ6900,frame_000378.png,226
+validation,BUQ6900,frame_000383.png,226
+validation,BUQ6900,frame_000388.png,226
+validation,BUQ6900,frame_000393.png,226
+validation,BUQ6900,frame_000398.png,226
+validation,BUQ6900,frame_000403.png,226
+validation,BUQ6900,frame_000408.png,226
+validation,BUQ6900,frame_000413.png,226
+validation,BUQ6900,frame_000418.png,226
+validation,BUQ6900,frame_000423.png,226
+validation,BUQ6900,frame_000428.png,226
+validation,BUQ6900,frame_000433.png,226
+validation,BUQ6900,frame_000438.png,226
+validation,BUQ6900,frame_000443.png,226
+validation,BUQ6900,frame_000448.png,226
+validation,BUQ6900,frame_000453.png,226
+validation,BUQ6900,frame_000458.png,226
+validation,BUQ6900,frame_000463.png,226
+validation,BUQ6900,frame_000468.png,226
+validation,BUQ6900,frame_000473.png,226
+validation,BUQ6900,frame_000478.png,226
+validation,BUQ6900,frame_000483.png,226
+validation,BUQ6900,frame_000488.png,226
+validation,BUQ6900,frame_000493.png,226
+validation,KLR-6820,frame_000045.png,7
+validation,KLR-6820,frame_000048.png,7
+validation,KLR-6820,frame_000051.png,7
+validation,ch026_20250720105438-塑膠袋,frame_000199.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000204.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000209.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000215.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000220.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000225.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000230.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000235.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000240.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000246.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000251.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000256.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000261.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000266.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000271.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000277.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000282.png,89
+validation,ch026_20250720105438-塑膠袋,frame_000287.png,89
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001056.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001061.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001066.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001071.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001076.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001081.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001085.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001090.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001095.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001100.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001105.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001110.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001115.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001120.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001125.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001130.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001135.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001139.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001144.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001149.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001154.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001159.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001164.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001169.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001174.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001179.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001184.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001189.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001194.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001198.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001203.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001208.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001213.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001218.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001223.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001228.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001233.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001238.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001243.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001248.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001252.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001257.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001262.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001267.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001272.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001277.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001282.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001287.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001292.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001297.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001302.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001306.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001311.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001316.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001321.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001326.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001331.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001336.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001341.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001346.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001351.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001356.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001360.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001365.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001370.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001375.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001380.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001385.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001390.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001395.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001400.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001405.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001410.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001415.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001419.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001424.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001429.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001434.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001439.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001444.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001449.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001454.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001459.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001464.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001469.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001473.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001478.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001483.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001488.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001493.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001498.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001503.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001508.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001513.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001518.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001523.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001527.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001532.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001537.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001542.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001547.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001552.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001557.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001562.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001567.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001572.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001577.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001581.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001586.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001591.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001596.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001601.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001606.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001611.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001616.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001621.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001626.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001631.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001635.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001640.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001645.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001650.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001655.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001660.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001665.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001670.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001675.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001680.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001685.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001690.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001694.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001699.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001704.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001709.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001714.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001719.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001724.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001729.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001734.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001739.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001744.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001748.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001753.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001758.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001763.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001768.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001773.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001778.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001783.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001788.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001793.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001798.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001802.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001807.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001812.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001817.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001822.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001827.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001832.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001837.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001842.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001847.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001852.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001856.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001861.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001866.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001871.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001876.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001881.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001886.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001891.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001896.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001901.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001906.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001911.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001915.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001920.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001925.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001930.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001935.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001940.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001945.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001950.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001955.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001960.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001965.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001969.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001974.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001979.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001984.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001989.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001994.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_001999.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002004.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002009.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002014.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002019.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002023.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002028.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002033.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002038.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002043.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002048.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002053.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002058.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002063.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002068.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002073.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002077.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002082.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002087.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002092.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002097.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002102.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002107.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002112.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002117.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002122.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002127.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002132.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002136.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002141.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002146.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002151.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002156.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002161.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002166.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002171.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002176.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002181.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002186.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002190.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002195.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002200.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002205.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002210.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002215.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002220.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002225.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002230.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002235.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002240.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002244.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002249.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002254.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002259.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002264.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002269.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002274.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002279.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002284.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002289.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002294.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002298.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002303.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002308.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002313.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002318.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002323.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002328.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002333.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002338.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002343.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002348.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002352.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002357.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002362.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002367.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002372.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002377.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002382.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002387.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002392.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002397.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002402.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002407.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002411.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002416.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002421.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002426.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002431.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002436.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002441.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002446.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002451.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002456.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002461.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002465.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002470.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002475.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002480.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002485.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002490.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002495.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002500.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002505.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002510.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002515.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002519.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002524.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002529.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002534.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002539.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002544.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002549.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002554.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002559.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002564.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002569.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002573.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002578.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002583.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002588.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002593.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002598.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002603.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002608.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002613.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002618.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002623.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002628.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002632.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002637.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002642.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002647.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002652.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002657.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002662.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002667.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002672.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002677.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002682.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002686.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002691.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002696.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002701.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002706.png,1656
+validation,八德_ATW-0830(AI)_334-02-36_20250425095535_processed (1),frame_002711.png,1656
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000139.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000144.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000149.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000154.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000159.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000164.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000169.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000173.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000178.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000183.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000188.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000193.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000198.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000203.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000208.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000213.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000218.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000223.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000228.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000233.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000238.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000242.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000247.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000252.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000257.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000262.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000267.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000272.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000277.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000282.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000287.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000292.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000297.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000302.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000307.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000311.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000316.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000321.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000326.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000331.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000336.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000341.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000346.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000351.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000356.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000361.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000366.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000371.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000376.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000380.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000385.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000390.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000395.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000400.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000405.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000410.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000415.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000420.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000425.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000430.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000435.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000440.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000445.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000449.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000454.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000459.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000464.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000469.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000474.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000479.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000484.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000489.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000494.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000499.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000504.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000509.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000513.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000518.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000523.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000528.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000533.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000538.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000543.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000548.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000553.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000558.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000563.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000568.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000573.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000578.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000582.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000587.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000592.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000597.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000602.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000607.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000612.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000617.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000622.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000627.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000632.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000637.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000642.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000647.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000651.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000656.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000661.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000666.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000671.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000676.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000681.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000686.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000691.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000696.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000701.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000706.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000711.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000716.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000720.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000725.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000730.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000735.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000740.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000745.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000750.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000755.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000760.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000765.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000770.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000775.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000780.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000785.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000789.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000794.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000799.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000804.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000809.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000814.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000819.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000824.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000829.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000834.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000839.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000844.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000849.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000854.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000858.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000863.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000868.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000873.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000878.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000883.png,750
+validation,大溪_1140423案-飲料杯 (1)_processed,frame_000888.png,750
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000824.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000830.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000835.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000863.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000869.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000875.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000880.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000885.png,45
+validation,大溪_2025051840504-一般廢棄物_processed,frame_000891.png,45
+validation,桃園_PIR_4175_processed,frame_000203.png,62
+validation,桃園_PIR_4175_processed,frame_000209.png,62
+validation,桃園_PIR_4175_processed,frame_000218.png,62
+validation,桃園_PIR_4175_processed,frame_000223.png,62
+validation,桃園_PIR_4175_processed,frame_000228.png,62
+validation,桃園_PIR_4175_processed,frame_000233.png,62
+validation,桃園_PIR_4175_processed,frame_000238.png,62
+validation,桃園_PIR_4175_processed,frame_000244.png,62
+validation,桃園_PIR_4175_processed,frame_000249.png,62
+validation,桃園_PIR_4175_processed,frame_000254.png,62
+validation,桃園_PIR_4175_processed,frame_000259.png,62
+validation,桃園_PIR_4175_processed,frame_000264.png,62
+validation,桃園_PIR_4175_processed,frame_000269.png,62
+validation,桃園_TLC00147 6-19_processed,frame_000201.png,6
+validation,桃園_TLC00147 6-19_processed,frame_000203.png,6
+validation,桃園_TLC00147 6-19_processed,frame_000206.png,6
+test,0619-RX,frame_000523.png,90
+test,0619-RX,frame_000528.png,90
+test,0619-RX,frame_000533.png,90
+test,0619-RX,frame_000539.png,90
+test,0619-RX,frame_000544.png,90
+test,0619-RX,frame_000549.png,90
+test,0619-RX,frame_000554.png,90
+test,0619-RX,frame_000560.png,90
+test,0619-RX,frame_000565.png,90
+test,0619-RX,frame_000570.png,90
+test,0619-RX,frame_000575.png,90
+test,0619-RX,frame_000581.png,90
+test,0619-RX,frame_000586.png,90
+test,0619-RX,frame_000591.png,90
+test,0619-RX,frame_000596.png,90
+test,0619-RX,frame_000602.png,90
+test,0619-RX,frame_000607.png,90
+test,0619-RX,frame_000612.png,90
+test,0919-BKA8791,frame_000717.png,162
+test,0919-BKA8791,frame_000722.png,162
+test,0919-BKA8791,frame_000727.png,162
+test,0919-BKA8791,frame_000732.png,162
+test,0919-BKA8791,frame_000737.png,162
+test,0919-BKA8791,frame_000742.png,162
+test,0919-BKA8791,frame_000747.png,162
+test,0919-BKA8791,frame_000752.png,162
+test,0919-BKA8791,frame_000757.png,162
+test,0919-BKA8791,frame_000762.png,162
+test,0919-BKA8791,frame_000767.png,162
+test,0919-BKA8791,frame_000772.png,162
+test,0919-BKA8791,frame_000777.png,162
+test,0919-BKA8791,frame_000782.png,162
+test,0919-BKA8791,frame_000787.png,162
+test,0919-BKA8791,frame_000792.png,162
+test,0919-BKA8791,frame_000797.png,162
+test,0919-BKA8791,frame_000803.png,162
+test,0919-BKA8791,frame_000808.png,162
+test,0919-BKA8791,frame_000813.png,162
+test,0919-BKA8791,frame_000818.png,162
+test,0919-BKA8791,frame_000823.png,162
+test,0919-BKA8791,frame_000828.png,162
+test,0919-BKA8791,frame_000833.png,162
+test,0919-BKA8791,frame_000838.png,162
+test,0919-BKA8791,frame_000843.png,162
+test,0919-BKA8791,frame_000848.png,162
+test,0919-BKA8791,frame_000853.png,162
+test,0919-BKA8791,frame_000858.png,162
+test,0919-BKA8791,frame_000863.png,162
+test,0919-BKA8791,frame_000868.png,162
+test,0919-BKA8791,frame_000873.png,162
+test,0919-BKA8791,frame_000878.png,162
+test,AMT-0058,frame_000659.png,20
+test,AMT-0058,frame_000665.png,20
+test,AMT-0058,frame_000672.png,20
+test,AMT-0058,frame_000678.png,20
+test,BWH-0190亂丟垃圾2,frame_000464.png,9
+test,BWH-0190亂丟垃圾2,frame_000468.png,9
+test,BWH-0190亂丟垃圾2,frame_000472.png,9
+test,KEK-3232,frame_001453.png,187
+test,KEK-3232,frame_001458.png,187
+test,KEK-3232,frame_001463.png,187
+test,KEK-3232,frame_001468.png,187
+test,KEK-3232,frame_001473.png,187
+test,KEK-3232,frame_001478.png,187
+test,KEK-3232,frame_001483.png,187
+test,KEK-3232,frame_001488.png,187
+test,KEK-3232,frame_001493.png,187
+test,KEK-3232,frame_001498.png,187
+test,KEK-3232,frame_001503.png,187
+test,KEK-3232,frame_001508.png,187
+test,KEK-3232,frame_001513.png,187
+test,KEK-3232,frame_001518.png,187
+test,KEK-3232,frame_001523.png,187
+test,KEK-3232,frame_001528.png,187
+test,KEK-3232,frame_001533.png,187
+test,KEK-3232,frame_001538.png,187
+test,KEK-3232,frame_001543.png,187
+test,KEK-3232,frame_001549.png,187
+test,KEK-3232,frame_001554.png,187
+test,KEK-3232,frame_001559.png,187
+test,KEK-3232,frame_001564.png,187
+test,KEK-3232,frame_001569.png,187
+test,KEK-3232,frame_001574.png,187
+test,KEK-3232,frame_001579.png,187
+test,KEK-3232,frame_001584.png,187
+test,KEK-3232,frame_001589.png,187
+test,KEK-3232,frame_001594.png,187
+test,KEK-3232,frame_001599.png,187
+test,KEK-3232,frame_001604.png,187
+test,KEK-3232,frame_001609.png,187
+test,KEK-3232,frame_001614.png,187
+test,KEK-3232,frame_001619.png,187
+test,KEK-3232,frame_001624.png,187
+test,KEK-3232,frame_001629.png,187
+test,KEK-3232,frame_001634.png,187
+test,KEK-3232,frame_001639.png,187
+test,KLK-6299,frame_001105.png,98
+test,KLK-6299,frame_001110.png,98
+test,KLK-6299,frame_001115.png,98
+test,KLK-6299,frame_001120.png,98
+test,KLK-6299,frame_001125.png,98
+test,KLK-6299,frame_001131.png,98
+test,KLK-6299,frame_001136.png,98
+test,KLK-6299,frame_001141.png,98
+test,KLK-6299,frame_001146.png,98
+test,KLK-6299,frame_001151.png,98
+test,KLK-6299,frame_001156.png,98
+test,KLK-6299,frame_001161.png,98
+test,KLK-6299,frame_001166.png,98
+test,KLK-6299,frame_001171.png,98
+test,KLK-6299,frame_001176.png,98
+test,KLK-6299,frame_001182.png,98
+test,KLK-6299,frame_001187.png,98
+test,KLK-6299,frame_001192.png,98
+test,KLK-6299,frame_001197.png,98
+test,KLK-6299,frame_001202.png,98
+test,ch025_20250702103823-杯子,frame_001379.png,48
+test,ch025_20250702103823-杯子,frame_001384.png,48
+test,ch025_20250702103823-杯子,frame_001389.png,48
+test,ch025_20250702103823-杯子,frame_001395.png,48
+test,ch025_20250702103823-杯子,frame_001400.png,48
+test,ch025_20250702103823-杯子,frame_001405.png,48
+test,ch025_20250702103823-杯子,frame_001410.png,48
+test,ch025_20250702103823-杯子,frame_001416.png,48
+test,ch025_20250702103823-杯子,frame_001421.png,48
+test,ch025_20250702103823-杯子,frame_001426.png,48
+test,大園_大園區中隊監視器_processed (1),frame_002669.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002674.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002679.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002685.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002690.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002695.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002701.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002706.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002711.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002716.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002721.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002727.png,64
+test,大園_大園區中隊監視器_processed (1),frame_002732.png,64
+test,大溪_1140304-一般廢棄物_processed,frame_000526.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000531.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000536.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000541.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000546.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000551.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000556.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000560.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000565.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000570.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000575.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000580.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000585.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000590.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000595.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000600.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000605.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000610.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000615.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000619.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000624.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000629.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000634.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000639.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000644.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000649.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000654.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000659.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000664.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000669.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000674.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000678.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000683.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000688.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000693.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000698.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000703.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000708.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000713.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000718.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000723.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000728.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000733.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000737.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000742.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000747.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000752.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000757.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000762.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000767.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000772.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000777.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000782.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000787.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000792.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000796.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000801.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000806.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000811.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000816.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000821.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000826.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000831.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000836.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000841.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000846.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000851.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000855.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000860.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000865.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000870.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000875.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000880.png,360
+test,大溪_1140304-一般廢棄物_processed,frame_000885.png,360
+test,大溪_1140322-一般廢棄物_processed (1),frame_000350.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000355.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000360.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000365.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000370.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000375.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000380.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000385.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000390.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000395.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000400.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000404.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000409.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000414.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000419.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000424.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000429.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000434.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000439.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000444.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000449.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000454.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000459.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000464.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000469.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000474.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000479.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000484.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000489.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000494.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000499.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000504.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000509.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000514.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000518.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000523.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000528.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000533.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000538.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000543.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000548.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000553.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000558.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000563.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000568.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000573.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000578.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000583.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000588.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000593.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000598.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000603.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000608.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000613.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000618.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000622.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000627.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000632.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000637.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000642.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000647.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000652.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000657.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000662.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000667.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000672.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000677.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000682.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000687.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000692.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000697.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000702.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000707.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000712.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000717.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000722.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000727.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000732.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000736.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000741.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000746.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000751.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000756.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000761.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000766.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000771.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000776.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000781.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000786.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000791.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000796.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000801.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000806.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000811.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000816.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000821.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000826.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000831.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000836.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000840.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000845.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000850.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000855.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000860.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000865.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000870.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000875.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000880.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000885.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000890.png,546
+test,大溪_1140322-一般廢棄物_processed (1),frame_000895.png,546
+test,大溪_20250530150517-瓶子(2)_processed,frame_000753.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000758.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000763.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000768.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000773.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000778.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000783.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000788.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000793.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000798.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000803.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000808.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000813.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000818.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000823.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000828.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000833.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000838.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000843.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000848.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000853.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000858.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000863.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000868.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000873.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000878.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000883.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000888.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000893.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000898.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000903.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000908.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000913.png,166
+test,大溪_20250530150517-瓶子(2)_processed,frame_000918.png,166
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000367.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000372.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000377.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000382.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000387.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000392.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000397.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000402.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000407.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000411.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000416.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000421.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000426.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000431.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000436.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000441.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000446.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000451.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000456.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000461.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000466.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000471.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000476.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000481.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000486.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000491.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000496.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000500.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000505.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000510.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000515.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000520.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000525.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000530.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000535.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000540.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000545.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000550.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000555.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000560.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000565.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000570.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000575.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000580.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000585.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000589.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000594.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000599.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000604.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000609.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000614.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000619.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000624.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000629.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000634.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000639.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000644.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000649.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000654.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000659.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000664.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000669.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000673.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000678.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000683.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000688.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000693.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000698.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000703.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000708.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000713.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000718.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000723.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000728.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000733.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000738.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000743.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000748.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000753.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000758.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000762.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000767.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000772.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000777.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000782.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000787.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000792.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000797.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000802.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000807.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000812.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000817.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000822.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000827.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000832.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000837.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000842.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000847.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000851.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000856.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000861.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000866.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000871.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000876.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000881.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000886.png,525
+test,大溪_20250605170033-飲料杯(3)_processed (1),frame_000891.png,525
+test,大溪_20250607114241-杯子_processed,frame_000450.png,446
+test,大溪_20250607114241-杯子_processed,frame_000455.png,446
+test,大溪_20250607114241-杯子_processed,frame_000460.png,446
+test,大溪_20250607114241-杯子_processed,frame_000465.png,446
+test,大溪_20250607114241-杯子_processed,frame_000470.png,446
+test,大溪_20250607114241-杯子_processed,frame_000475.png,446
+test,大溪_20250607114241-杯子_processed,frame_000480.png,446
+test,大溪_20250607114241-杯子_processed,frame_000485.png,446
+test,大溪_20250607114241-杯子_processed,frame_000490.png,446
+test,大溪_20250607114241-杯子_processed,frame_000494.png,446
+test,大溪_20250607114241-杯子_processed,frame_000499.png,446
+test,大溪_20250607114241-杯子_processed,frame_000504.png,446
+test,大溪_20250607114241-杯子_processed,frame_000509.png,446
+test,大溪_20250607114241-杯子_processed,frame_000514.png,446
+test,大溪_20250607114241-杯子_processed,frame_000519.png,446
+test,大溪_20250607114241-杯子_processed,frame_000524.png,446
+test,大溪_20250607114241-杯子_processed,frame_000529.png,446
+test,大溪_20250607114241-杯子_processed,frame_000534.png,446
+test,大溪_20250607114241-杯子_processed,frame_000539.png,446
+test,大溪_20250607114241-杯子_processed,frame_000544.png,446
+test,大溪_20250607114241-杯子_processed,frame_000549.png,446
+test,大溪_20250607114241-杯子_processed,frame_000554.png,446
+test,大溪_20250607114241-杯子_processed,frame_000559.png,446
+test,大溪_20250607114241-杯子_processed,frame_000564.png,446
+test,大溪_20250607114241-杯子_processed,frame_000569.png,446
+test,大溪_20250607114241-杯子_processed,frame_000574.png,446
+test,大溪_20250607114241-杯子_processed,frame_000579.png,446
+test,大溪_20250607114241-杯子_processed,frame_000584.png,446
+test,大溪_20250607114241-杯子_processed,frame_000588.png,446
+test,大溪_20250607114241-杯子_processed,frame_000593.png,446
+test,大溪_20250607114241-杯子_processed,frame_000598.png,446
+test,大溪_20250607114241-杯子_processed,frame_000603.png,446
+test,大溪_20250607114241-杯子_processed,frame_000608.png,446
+test,大溪_20250607114241-杯子_processed,frame_000613.png,446
+test,大溪_20250607114241-杯子_processed,frame_000618.png,446
+test,大溪_20250607114241-杯子_processed,frame_000623.png,446
+test,大溪_20250607114241-杯子_processed,frame_000628.png,446
+test,大溪_20250607114241-杯子_processed,frame_000633.png,446
+test,大溪_20250607114241-杯子_processed,frame_000638.png,446
+test,大溪_20250607114241-杯子_processed,frame_000643.png,446
+test,大溪_20250607114241-杯子_processed,frame_000648.png,446
+test,大溪_20250607114241-杯子_processed,frame_000653.png,446
+test,大溪_20250607114241-杯子_processed,frame_000658.png,446
+test,大溪_20250607114241-杯子_processed,frame_000663.png,446
+test,大溪_20250607114241-杯子_processed,frame_000668.png,446
+test,大溪_20250607114241-杯子_processed,frame_000672.png,446
+test,大溪_20250607114241-杯子_processed,frame_000677.png,446
+test,大溪_20250607114241-杯子_processed,frame_000682.png,446
+test,大溪_20250607114241-杯子_processed,frame_000687.png,446
+test,大溪_20250607114241-杯子_processed,frame_000692.png,446
+test,大溪_20250607114241-杯子_processed,frame_000697.png,446
+test,大溪_20250607114241-杯子_processed,frame_000702.png,446
+test,大溪_20250607114241-杯子_processed,frame_000707.png,446
+test,大溪_20250607114241-杯子_processed,frame_000712.png,446
+test,大溪_20250607114241-杯子_processed,frame_000717.png,446
+test,大溪_20250607114241-杯子_processed,frame_000722.png,446
+test,大溪_20250607114241-杯子_processed,frame_000727.png,446
+test,大溪_20250607114241-杯子_processed,frame_000732.png,446
+test,大溪_20250607114241-杯子_processed,frame_000737.png,446
+test,大溪_20250607114241-杯子_processed,frame_000742.png,446
+test,大溪_20250607114241-杯子_processed,frame_000747.png,446
+test,大溪_20250607114241-杯子_processed,frame_000752.png,446
+test,大溪_20250607114241-杯子_processed,frame_000757.png,446
+test,大溪_20250607114241-杯子_processed,frame_000762.png,446
+test,大溪_20250607114241-杯子_processed,frame_000766.png,446
+test,大溪_20250607114241-杯子_processed,frame_000771.png,446
+test,大溪_20250607114241-杯子_processed,frame_000776.png,446
+test,大溪_20250607114241-杯子_processed,frame_000781.png,446
+test,大溪_20250607114241-杯子_processed,frame_000786.png,446
+test,大溪_20250607114241-杯子_processed,frame_000791.png,446
+test,大溪_20250607114241-杯子_processed,frame_000796.png,446
+test,大溪_20250607114241-杯子_processed,frame_000801.png,446
+test,大溪_20250607114241-杯子_processed,frame_000806.png,446
+test,大溪_20250607114241-杯子_processed,frame_000811.png,446
+test,大溪_20250607114241-杯子_processed,frame_000816.png,446
+test,大溪_20250607114241-杯子_processed,frame_000821.png,446
+test,大溪_20250607114241-杯子_processed,frame_000826.png,446
+test,大溪_20250607114241-杯子_processed,frame_000831.png,446
+test,大溪_20250607114241-杯子_processed,frame_000836.png,446
+test,大溪_20250607114241-杯子_processed,frame_000841.png,446
+test,大溪_20250607114241-杯子_processed,frame_000846.png,446
+test,大溪_20250607114241-杯子_processed,frame_000850.png,446
+test,大溪_20250607114241-杯子_processed,frame_000855.png,446
+test,大溪_20250607114241-杯子_processed,frame_000860.png,446
+test,大溪_20250607114241-杯子_processed,frame_000865.png,446
+test,大溪_20250607114241-杯子_processed,frame_000870.png,446
+test,大溪_20250607114241-杯子_processed,frame_000875.png,446
+test,大溪_20250607114241-杯子_processed,frame_000880.png,446
+test,大溪_20250607114241-杯子_processed,frame_000885.png,446
+test,大溪_20250607114241-杯子_processed,frame_000890.png,446
+test,大溪_20250607114241-杯子_processed,frame_000895.png,446
+test,大溪_20250608153937-紙屑_processed,frame_000498.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000503.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000508.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000513.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000518.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000523.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000528.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000533.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000538.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000542.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000547.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000552.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000557.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000562.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000567.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000572.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000577.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000582.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000587.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000592.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000597.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000602.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000607.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000612.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000617.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000621.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000626.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000631.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000636.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000641.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000646.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000651.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000656.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000661.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000666.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000671.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000676.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000681.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000686.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000691.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000696.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000700.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000705.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000710.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000715.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000720.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000725.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000730.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000735.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000740.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000745.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000750.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000755.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000760.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000765.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000770.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000775.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000779.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000784.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000789.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000794.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000799.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000804.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000809.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000814.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000819.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000824.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000829.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000834.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000839.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000844.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000849.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000854.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000858.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000863.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000868.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000873.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000878.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000883.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000888.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000893.png,401
+test,大溪_20250608153937-紙屑_processed,frame_000898.png,401
+test,新屋_327-04-62_20250613084550_processed,frame_000042.png,10
+test,新屋_327-04-62_20250613084550_processed,frame_000046.png,10
+test,新屋_327-04-62_20250613084550_processed,frame_000051.png,10
+test,桃園_PIR_3004_processed,frame_000122.png,17
+test,桃園_PIR_3004_processed,frame_000131.png,17
+test,桃園_PIR_3004_processed,frame_000139.png,17
+test,桃園_PIR_3150_processed,frame_000201.png,62
+test,桃園_PIR_3150_processed,frame_000206.png,62
+test,桃園_PIR_3150_processed,frame_000211.png,62
+test,桃園_PIR_3150_processed,frame_000216.png,62
+test,桃園_PIR_3150_processed,frame_000221.png,62
+test,桃園_PIR_3150_processed,frame_000226.png,62
+test,桃園_PIR_3150_processed,frame_000231.png,62
+test,桃園_PIR_3150_processed,frame_000237.png,62
+test,桃園_PIR_3150_processed,frame_000242.png,62
+test,桃園_PIR_3150_processed,frame_000247.png,62
+test,桃園_PIR_3150_processed,frame_000252.png,62
+test,桃園_PIR_3150_processed,frame_000257.png,62
+test,桃園_PIR_3150_processed,frame_000262.png,62
+test,桃園_TLC00159 6-19_processed,frame_000000.png,23
+test,桃園_TLC00159 6-19_processed,frame_000006.png,23
+test,桃園_TLC00159 6-19_processed,frame_000012.png,23
+test,桃園_TLC00159 6-19_processed,frame_000017.png,23
+test,桃園_TLC00159 6-19_processed,frame_000024.png,23
