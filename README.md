@@ -6,13 +6,7 @@
 完整的資料規格、模型版本紀錄、已知問題請看 `handoff_20260820_training/`。
 
 
-> **這個 repo 只有程式碼與清單（1.2 MB）。** 影像（`dataset/`，5 GB）與權重（`yolo11l.pt`、`yolo26n.pt`）
-> 太大不進 git，請跟負責人拿完整的 `handoff_smoke_20260820/`，解開後用 `SHA256SUMS` 驗證：
->
-> ```bash
-> sha256sum -c SHA256SUMS | grep -v ': OK$'     # macOS: shasum -a 256 -c
-> ```
-> 沒有輸出就是 6,487 個檔全對。拿到完整包後，下面的說明才適用。
+影像（5 GB）與權重不在 repo 裡，跟負責人拿完整的 `handoff_smoke_20260820/`。
 
 ---
 
