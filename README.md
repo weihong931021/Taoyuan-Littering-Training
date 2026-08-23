@@ -1,7 +1,6 @@
 # 小型資料包 —— 跑通垃圾偵測訓練流程
 
 2026-08-20 產出。**用途只有一個：讓接手的人在自己的機器上把整條 training pipeline 跑起來。**
-不是拿來訓練正式模型，也不是拿來產生對外報告的數字（原因見下方「兩個限制」）。
 
 完整的資料規格、模型版本紀錄、已知問題請看 `handoff_20260820_training/`。
 
@@ -42,7 +41,6 @@ model = YOLO("yolo11l.pt")   # ← 載入 COCO 預訓練權重
 model.train(data=..., epochs=..., imgsz=1280, batch=8, patience=20)
 ```
 
-⚠️ `model.train()` 裡的 `pretrained=True/False` 在偵測訓練中是**無效參數**。
 決定要不要用預訓練的是 `YOLO()` 那一行：`.pt` = 預訓練，`.yaml` = 從零開始。
 
 輸出在 `runs/detect/trash_detect/<name>/`：`weights/best.pt`、`weights/last.pt`、
