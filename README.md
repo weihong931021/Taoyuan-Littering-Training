@@ -5,9 +5,6 @@
 
 完整的資料規格、模型版本紀錄、已知問題請看 `handoff_20260820_training/`。
 
-
-影像（5 GB）與權重不在 repo 裡，跟負責人拿完整的 `handoff_smoke_20260820/`。
-
 ---
 
 ## 內容物
@@ -16,9 +13,11 @@
 |---|---|---:|
 | `dataset/` | 等比例抽樣的子集，YOLO 格式（`images/` 與 `labels/` 鏡像樹） | 5.1 GB |
 | `dataset/data.yaml` | Ultralytics 設定檔，`nc: 1`, `names: {0: trash}` | — |
-| `train.py` | **可直接執行的訓練腳本**，53 行，不綁 W&B | 2 KB |
+| `train.py` | **可直接執行的訓練腳本**，57 行，不綁 W&B | 2 KB |
 | `build_subset.py` | 產生這個子集的腳本，可重跑、可改容量 | 7 KB |
 | `SUBSET_MANIFEST.csv` | 抽了哪 3,239 張的完整清單 | 200 KB |
+| `filter_trash_labels.py` | **標註完之後用**：把 3 class 標註過濾成只剩 trash（class 2 → 0） | 3 KB |
+| `LABEL_VERSIONS.md` | 標註有幾種版本、各自 class 定義、17 部影片的統計 | 3 KB |
 | `yolo11l.pt` | 起始權重（COCO 預訓練）。已附上，離線也能開跑 | 51 MB |
 | `yolo26n.pt` | Ultralytics 做 AMP 檢查時會自動抓的小模型，一併附上 | 5.5 MB |
 
@@ -55,6 +54,26 @@ model.train(data=..., epochs=..., imgsz=1280, batch=8, patience=20)
 （訓練後各層與基準權重的 cosine similarity 0.97–0.9997；隨機初始化的話會是 ~0）。
 沒有 GPU 就加 `--device cpu`；VRAM 不夠就調小 `--batch`。
 `data.yaml` 裡的絕對路徑會在每次啟動時自動對齊到當前位置，**換機器不用手動改**。
+
+---
+
+## 標註完之後：3 class → 1 class
+
+學弟妹用 CVAT 標完匯出的 YOLO 標註是 **3 個 class**：`0 Person` / `1 Vehicle` / `2 Trash`。
+但這個專案的模型**只訓練 trash 一類**（`nc=1`），所以要先過濾：
+
+```bash
+python3 filter_trash_labels.py --src <CVAT匯出的資料夾> --out filtered_labels
+```
+
+它做的事：只留 class 2 的框、改成 class 0、座標不動。沒有 trash 的影格會寫出**空的 .txt**——
+那是負樣本（背景幀），不是錯誤，不要刪。
+
+輸入要是 `<影片>/obj_train_data/*.txt` 的結構（CVAT 匯出的預設格式）。
+輸出的 `filtered_labels/<影片>/*.txt` 可以直接當 `labels/` 用。
+
+標註還有其他版本（8 class、trash/trash_flying 拆開），對照表在 `LABEL_VERSIONS.md`。
+目前只用單類別；其他版本是為了之後要做第二階段（判定亂丟行為）時才需要。
 
 ---
 

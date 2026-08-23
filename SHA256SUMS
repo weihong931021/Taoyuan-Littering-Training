@@ -1,6 +1,6 @@
-cdbddd1bc087ad8a83ff66bf8e54c0b949a16c88834aa9073d89b21760d8246e  ./README.md
+71a7e3b76c9254a0b9675416b672c40203d05f78f0d18d7b94904d6772325a32  ./LABEL_VERSIONS.md
+b9c0c98b45c5aa731be262b046bdc02e22f155e67a0ba3db974431e4bead548f  ./README.md
 860a460ac6e1f5a247c746ea8a67b411f752d610b0fedc2006d985b0162587aa  ./SUBSET_MANIFEST.csv
-98129613960377012499a9708eab62244db211c94e9b321a841d7a9b35f5e5ca  ./__pycache__/train.cpython-313.pyc
 6797b5ae400f4040831e526904daa6e2efd1684080631e8cc305df8b48d68a8c  ./build_subset.py
 b8f6be62d8bd5404436d08cebf113d236d37cf7b6beaff6ae3fd344a52b9f3ff  ./dataset/data.yaml
 f04cd638bc8c365f09f796feff117a60ebe4bf301b82a49938bf7b5a82fe7cfd  ./dataset/images/test/0619-RX/frame_000523.png
@@ -6483,6 +6483,7 @@ fc0bc171e745f1bb4cc3c827c2d58fe0c9ff58f1c9050531f8a3a25450d63b3f  ./dataset/labe
 8c85b7bdd3b8028993ee70dd489db9cc6fc8709ee2316fa03bd6e1a544fa3818  ./dataset/labels/validation/桃園_TLC00147 6-19_processed/frame_000201.txt
 a318bdd56e14e91b143b0a55ba365cd9a360759e157a95006760b0a75e1c3f8a  ./dataset/labels/validation/桃園_TLC00147 6-19_processed/frame_000203.txt
 71c4ba17d941c5f3f60959a6cda9523165a633a4f7d68906db8ba83fa42a5ab5  ./dataset/labels/validation/桃園_TLC00147 6-19_processed/frame_000206.txt
+0d3b8256fedc347582056e24918babf67894ef5391ca6cf112205bb68d557a0f  ./filter_trash_labels.py
 68ead11cdaac3800d8a2fd7410807f98ac47458f75e96598ff2ad9d0623d2019  ./train.py
 9ebd0e09d59811db4b1d61e2bc6730649608b1ac47f8dd01e2da6bca7c20023f  ./yolo11l.pt
 9b09cc8bf347f0fc8a5f7657480587f25db09b34bf33b0652110fb03a8ad4fef  ./yolo26n.pt
